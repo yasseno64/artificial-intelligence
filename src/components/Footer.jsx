@@ -163,7 +163,7 @@ const Footer = () => {
         {/* bottom bar */}
         <div className="footer-bottom-bar">
           <p className="footer-bottom-text">
-            &copy; 2026 AI REV. ALL RIGHTS RESERVED Created by <a href="https://yasseno64.github.io/YassenContacts/" className="gradient-text">Yassen Mahmoud</a>
+            &copy; 2026 AI REV. ALL RIGHTS RESERVED Created by <a href="https://yasseno64.github.io/Yassen-card/" className="gradient-text">Yassen Mahmoud</a>
           </p>
           <div className="footer-bottom-link-group">
             <a href="#" className="footer-bottom-link">
